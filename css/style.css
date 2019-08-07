@@ -1,0 +1,86 @@
+body {
+    font-size: 16px;
+    line-height: 1.6em;
+    font-family: PT Sans;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: 0em;
+    line-height: 1.8em;
+    text-transform: none;
+    color: #fbf9f9;
+}
+
+.bg-dark {
+    background-color: #000 !important;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.navbar-dark .navbar-brand {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    letter-spacing: -.03em;
+    line-height: 1.4em;
+    text-transform: uppercase;
+    color: #f9fafb;
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 5rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+    padding-right: 20px;
+}
+
+.logo_position {
+    margin: 18px;
+}
+
+/* starting of the second division */
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(255, 254, 254);
+}
+
+.jumbotron1 {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #050000;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    color: #205d83;
+}
+
+.list-groups-item {
+    position: relative;
+    display: block;
+    margin-bottom: -1px;
+}
+
+.homepage_contact {
+    color: #205d83;
+    text-decoration: none;
+    background-color: transparent;
+}
